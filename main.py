@@ -1,5 +1,5 @@
-from lib import cashback
-from lib import bmi
+#from lib import cashback
+from lib import cashback, bmi
 
 #print('our program')
 #print(cashback(10_000))
